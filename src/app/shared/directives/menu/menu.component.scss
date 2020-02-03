@@ -1,0 +1,25 @@
+.menu {
+    display: flex;
+    position: absolute;
+    flex-direction: row;
+    background-color: transparent;
+    margin-left: -50px;
+    justify-content: space-around;
+    width: 100%;
+    z-index: 1;
+
+    li {
+        list-style: none;
+
+        a {
+            font-size: 16px;
+            color: white;
+            text-decoration: none;
+            transition: .3s;
+        }
+
+        a:hover {
+            font-size: 18px;
+        }
+    }
+}
