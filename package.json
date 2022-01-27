@@ -24,7 +24,7 @@
     "first-person-controls": "^1.0.1",
     "rxjs": "~6.3.3",
     "stats.js": "^0.17.0",
-    "three": "^0.107.0",
+    "three": "^0.137.0",
     "three-anaglypheffect": "^1.0.0",
     "three-gltf-loader": "^1.107.0",
     "three-orbitcontrols": "^2.102.2",
